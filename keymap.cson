@@ -1,0 +1,6 @@
+'.platform-linux atom-text-editor':
+  'ctrl-shift-a':
+    'atom-ctags:go-to-declaration'
+
+'atom-text-editor.vim-mode.insert-mode':
+  ';': 'exit-insert-mode-if-preceded-by-semicolon'

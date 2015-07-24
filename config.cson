@@ -1,0 +1,11 @@
+"*":
+  "exception-reporting":
+    userId: "1ebf9c9a-6ea1-ba43-7939-dfbcac2139bb"
+  welcome:
+    showOnStartup: false
+  core:
+    disabledPackages: [
+      "symbols-view"
+    ]
+  "atom-ctags":
+    extraTagFiles: "tags"
